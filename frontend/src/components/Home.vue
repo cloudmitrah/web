@@ -10,7 +10,7 @@
                   <!-- <div class="white fill-height">&nbsp;</div> -->
                 </div>
                 <div class="col pa-3 py-4 white--text">
-                  <h5 class="text-truncate text-uppercase">Sales</h5>
+                  <h5 class="text-truncate text-uppercase">Data</h5>
                   <h1>213</h1>
                 </div>
               </v-row>
