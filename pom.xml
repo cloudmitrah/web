@@ -14,7 +14,7 @@
 	<name>web</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>1.8</java.version>
 		<azure.version>3.10.0</azure.version>
 		<node.version>v16.13.1</node.version>
 		<npm.version>8.1.2</npm.version>
